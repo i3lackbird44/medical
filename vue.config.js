@@ -1,4 +1,4 @@
 module.exports={
-    publicPath:'/',
-    outputDir:'deploy'
+    publicPath :'/',
+    outputDir :'deploy'
 }
